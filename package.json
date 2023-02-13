@@ -1,0 +1,29 @@
+{
+  "name": "casa-de-cambio-app",
+  "version": "1.0.0",
+  "description": "O projeto da casa de câmbio é uma aplicação que busca a conversão da taxa de uma moeda para diversas outras. O protótipo da aplicação está [nesse link](https://www.figma.com/file/H3gBEiF0F94VESCGx9DD17/Casa-de-C%C3%A2mbio?node-id=0%3A1).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dropeko/casa-de-cambio-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dropeko/casa-de-cambio-app/issues"
+  },
+  "homepage": "https://github.com/dropeko/casa-de-cambio-app#readme",
+  "dependencies": {
+    "jest": "^29.4.2",
+    "sweetalert2": "^11.7.1",
+    "vite": "^4.1.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
